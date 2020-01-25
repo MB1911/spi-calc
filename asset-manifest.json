@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/spi-calc/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/spi-calc/static/js/main.bd5cbd25.chunk.js",
+    "main.js.map": "/spi-calc/static/js/main.bd5cbd25.chunk.js.map",
+    "runtime-main.js": "/spi-calc/static/js/runtime-main.ddf20f28.js",
+    "runtime-main.js.map": "/spi-calc/static/js/runtime-main.ddf20f28.js.map",
+    "static/css/2.17e5ed98.chunk.css": "/spi-calc/static/css/2.17e5ed98.chunk.css",
+    "static/js/2.749eef7c.chunk.js": "/spi-calc/static/js/2.749eef7c.chunk.js",
+    "static/js/2.749eef7c.chunk.js.map": "/spi-calc/static/js/2.749eef7c.chunk.js.map",
+    "index.html": "/spi-calc/index.html",
+    "precache-manifest.870a0ceca8c98640e87b067775bce9d9.js": "/spi-calc/precache-manifest.870a0ceca8c98640e87b067775bce9d9.js",
+    "service-worker.js": "/spi-calc/service-worker.js",
+    "static/css/2.17e5ed98.chunk.css.map": "/spi-calc/static/css/2.17e5ed98.chunk.css.map",
+    "static/css/main.5ecd60fb.chunk.css.map": "/spi-calc/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.749eef7c.chunk.js.LICENSE": "/spi-calc/static/js/2.749eef7c.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ddf20f28.js",
+    "static/css/2.17e5ed98.chunk.css",
+    "static/js/2.749eef7c.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.bd5cbd25.chunk.js"
+  ]
+}
